@@ -1,4 +1,6 @@
 # GuiasLab-DSM
+
+# Todas las guias estan en la rama MASTER
 ## **Carlos Eduardo Siliézar Colocho SC202203**
 
 >Guia 1 (100%)
